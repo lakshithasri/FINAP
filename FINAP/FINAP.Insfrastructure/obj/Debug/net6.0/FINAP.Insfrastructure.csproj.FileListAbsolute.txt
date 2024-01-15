@@ -1,0 +1,15 @@
+E:\finap\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.deps.json
+E:\finap\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.dll
+E:\finap\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.pdb
+E:\finap\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Domain.dll
+E:\finap\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Domain.pdb
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.AssemblyReference.cache
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.AssemblyInfoInputs.cache
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.AssemblyInfo.cs
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.CoreCompileInputs.cache
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.CopyComplete
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.dll
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\refint\FINAP.Insfrastructure.dll
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.pdb
+E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\ref\FINAP.Insfrastructure.dll

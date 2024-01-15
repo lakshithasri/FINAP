@@ -1,0 +1,12 @@
+E:\finap\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.deps.json
+E:\finap\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.dll
+E:\finap\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.pdb
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.csproj.AssemblyReference.cache
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.AssemblyInfoInputs.cache
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.AssemblyInfo.cs
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.csproj.CoreCompileInputs.cache
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.dll
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\refint\FINAP.Domain.dll
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.pdb
+E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\ref\FINAP.Domain.dll
