@@ -1,0 +1,15 @@
+E:\finap\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.deps.json
+E:\finap\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.dll
+E:\finap\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.pdb
+E:\finap\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Domain.dll
+E:\finap\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Domain.pdb
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.AssemblyReference.cache
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.AssemblyInfoInputs.cache
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.AssemblyInfo.cs
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.CoreCompileInputs.cache
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.CopyComplete
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.dll
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\refint\FINAP.Application.dll
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.pdb
+E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\ref\FINAP.Application.dll
