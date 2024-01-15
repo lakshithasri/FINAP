@@ -13,3 +13,18 @@ E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.dll
 E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\refint\FINAP.Application.dll
 E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.pdb
 E:\finap\FINAP\FINAP.Application\obj\Debug\net6.0\ref\FINAP.Application.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.deps.json
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Application.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\bin\Debug\net6.0\FINAP.Domain.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.AssemblyReference.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.AssemblyInfoInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.AssemblyInfo.cs
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.csproj.CopyComplete
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\refint\FINAP.Application.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\FINAP.Application.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Application\obj\Debug\net6.0\ref\FINAP.Application.dll

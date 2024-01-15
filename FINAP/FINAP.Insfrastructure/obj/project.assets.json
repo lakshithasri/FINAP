@@ -715,11 +715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\finap\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj",
       "projectName": "FINAP.Insfrastructure",
-      "projectPath": "E:\\finap\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj",
+      "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj",
       "packagesPath": "C:\\Users\\Srinath Lakshitha\\.nuget\\packages\\",
-      "outputPath": "E:\\finap\\FINAP\\FINAP.Insfrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Insfrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Srinath Lakshitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -736,8 +736,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\finap\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj": {
-              "projectPath": "E:\\finap\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj"
+            "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj": {
+              "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj"
             }
           }
         }

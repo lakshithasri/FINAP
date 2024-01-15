@@ -1,0 +1,42 @@
+
+<div class="container my-5">
+    <div class="col-sm-12">
+        <div class="row">
+            <div class="col-sm-4">
+                <h2>New Customer</h2>
+                <app-register></app-register>
+            </div>
+            <div class="col-sm-8">
+                <h2>Customer List</h2>
+                <br>
+                <table class="table table-hover" *ngIf="custmers">
+                    <thead>
+                        <tr>    
+                            <th>Customer Name</th>
+                            <th>Phone</th>
+                            <th>Address</th>
+                            <th>Email</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let cus of custmers">
+                            <td>{{cus.varName}}</td>
+                            <td>{{cus.numPhone}}</td>
+                            <td>{{cus.varAddress}}</td>
+                            <td>{{cus.varEmail}}</td>
+                            <td>
+                                <button type="button" class="btn btn-warning">Edit</button>
+                                &nbsp;
+                                <button type="button" class="btn btn-danger">Delete</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p *ngIf="!custmers">No Customers found!.</p>
+            </div>
+        </div>
+        
+    </div>
+   
+</div>

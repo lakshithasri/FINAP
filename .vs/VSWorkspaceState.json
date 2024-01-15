@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FinapFE",
+    "\\FINAP\\FINAP",
+    "\\FINAP\\FINAP\\Controllers"
   ],
+  "SelectedNode": "\\FinapFE\\angular.json",
   "PreviewInSolutionExplorer": false
 }

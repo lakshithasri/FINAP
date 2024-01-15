@@ -13,3 +13,18 @@ E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.dll
 E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\refint\FINAP.Insfrastructure.dll
 E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.pdb
 E:\finap\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\ref\FINAP.Insfrastructure.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.deps.json
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Insfrastructure.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\bin\Debug\net6.0\FINAP.Domain.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.AssemblyReference.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.AssemblyInfoInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.AssemblyInfo.cs
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.csproj.CopyComplete
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\refint\FINAP.Insfrastructure.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\FINAP.Insfrastructure.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Insfrastructure\obj\Debug\net6.0\ref\FINAP.Insfrastructure.dll
