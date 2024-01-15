@@ -4978,11 +4978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\finap\\FINAP\\FINAP\\FINAP.csproj",
+      "projectUniqueName": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP\\FINAP.csproj",
       "projectName": "FINAP",
-      "projectPath": "E:\\finap\\FINAP\\FINAP\\FINAP.csproj",
+      "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP\\FINAP.csproj",
       "packagesPath": "C:\\Users\\Srinath Lakshitha\\.nuget\\packages\\",
-      "outputPath": "E:\\finap\\FINAP\\FINAP\\obj\\",
+      "outputPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Srinath Lakshitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4999,14 +4999,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\finap\\FINAP\\FINAP.Application\\FINAP.Application.csproj": {
-              "projectPath": "E:\\finap\\FINAP\\FINAP.Application\\FINAP.Application.csproj"
+            "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Application\\FINAP.Application.csproj": {
+              "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Application\\FINAP.Application.csproj"
             },
-            "E:\\finap\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj": {
-              "projectPath": "E:\\finap\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj"
+            "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj": {
+              "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Domain\\FINAP.Domain.csproj"
             },
-            "E:\\finap\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj": {
-              "projectPath": "E:\\finap\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj"
+            "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj": {
+              "projectPath": "C:\\Users\\Srinath Lakshitha\\source\\repos\\lakshithasri\\FINAP\\FINAP\\FINAP.Insfrastructure\\FINAP.Insfrastructure.csproj"
             }
           }
         }

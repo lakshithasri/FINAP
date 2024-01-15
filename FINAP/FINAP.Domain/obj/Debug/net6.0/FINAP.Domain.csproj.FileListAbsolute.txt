@@ -10,3 +10,15 @@ E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.dll
 E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\refint\FINAP.Domain.dll
 E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.pdb
 E:\finap\FINAP\FINAP.Domain\obj\Debug\net6.0\ref\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.deps.json
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\bin\Debug\net6.0\FINAP.Domain.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.csproj.AssemblyReference.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.AssemblyInfoInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.AssemblyInfo.cs
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\refint\FINAP.Domain.dll
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\FINAP.Domain.pdb
+C:\Users\Srinath Lakshitha\source\repos\lakshithasri\FINAP\FINAP\FINAP.Domain\obj\Debug\net6.0\ref\FINAP.Domain.dll
